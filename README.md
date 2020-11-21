@@ -1,13 +1,6 @@
 Events at Message Boards (EVAMB)
 
 * [ ] Build a Messenger
-    * [ ] Backend
-        * [X] create server folder
-        * [X] npm install express volleyball
-        * [X] setup index.js
-        * [X] Add get / route
-        * [X] Add get /messages route
-        * [X] Add Post /Messages route
     * [ ] Frontend
         * [X] create client folder
         * [ ] Setup index.html
